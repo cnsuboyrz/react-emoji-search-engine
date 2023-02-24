@@ -1,0 +1,14 @@
+.component-header {
+  padding: 15px;
+  position: relative;
+  font-weight: normal;
+  font-size: 30px;
+  text-align: center;
+  color: rgb(62, 59, 59);
+}
+
+.component-header img {
+  position: relative;
+  top: 5px;
+  padding: 0 15px;
+}
